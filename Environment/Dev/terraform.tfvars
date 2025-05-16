@@ -19,7 +19,7 @@ mapRg = {
 StgoageAccount1={
 
     stg1={
-          name                     = "devstorage14"
+          name                     = "devstorage19"
           resource_group_name      = "DevRg2"
           location                 = "East Us"
           account_tier             = "Standard"
@@ -27,7 +27,7 @@ StgoageAccount1={
     }
 
        stg2={
-          name                     = "prodstorage13"
+          name                     = "prodstorage14"
           resource_group_name      = "ProdRG"
           location                 = "Central India"
           account_tier             = "Standard"
